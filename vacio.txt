@@ -3,3 +3,5 @@ Esta es mi historia
 Me llamo Julio y soy programador web 
 
 El proposito del archivo es por el curso de platzi 
+
+Aprender sobre y git sus posibilidades 
